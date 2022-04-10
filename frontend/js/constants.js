@@ -1,4 +1,4 @@
-const contractAddress = "0xfBdD27dc1f48444ABEB0fcF4549D7F2b4f5560ef"; //Replace with your own contract address
+const contractAddress = "0x124f7Ce2B2cEdAA35E917a7fe6C6dC9E9660FBEc"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to The Strange Orangutans NFT Project!";
